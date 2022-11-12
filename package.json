@@ -1,0 +1,22 @@
+{
+  "name": "lodde",
+  "version": "1.0.0",
+  "description": "Elegant API Wrapper Library Sample for cool internal JS API client App",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reinhardjs/lodde.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reinhardjs/lodde/issues"
+  },
+  "homepage": "https://github.com/Reinhardjs/lodde#readme"
+}
