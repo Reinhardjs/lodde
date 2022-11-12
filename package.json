@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Reinhardjs/lodde/issues"
   },
-  "homepage": "https://github.com/Reinhardjs/lodde#readme"
+  "homepage": "https://github.com/Reinhardjs/lodde#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
 }
