@@ -1,6 +1,6 @@
 {
   "name": "lodde",
-  "version": "1.0.2-alpha.2",
+  "version": "1.0.2-alpha.3",
   "description": "Elegant API Wrapper Library Sample for cool internal JS API client App",
   "main": "lib/index.js",
   "directories": {
