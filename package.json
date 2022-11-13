@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/Reinhardjs/lodde#readme",
   "dependencies": {
-    "request": "^2.88.2"
+    "xhr2": "^0.2.1"
   }
 }
