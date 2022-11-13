@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Reinhardjs/lodde#readme",
   "dependencies": {
+    "uuid": "^9.0.0",
     "xhr2": "^0.2.1"
   }
 }
